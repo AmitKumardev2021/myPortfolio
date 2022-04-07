@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/myPortfolio/static/css/main.1b0236b5.css",
-    "main.js": "/myPortfolio/static/js/main.73133927.js",
+    "main.css": "/myPortfolio/static/css/main.f0efd07f.css",
+    "main.js": "/myPortfolio/static/js/main.b6f347b6.js",
     "static/media/cocktail.png": "/myPortfolio/static/media/cocktail.91bc6c29dc3451a403a8.png",
     "static/media/react-ui2.png": "/myPortfolio/static/media/react-ui2.aa27e908b9350b6cfb8c.png",
     "static/media/redux-toolkit.png": "/myPortfolio/static/media/redux-toolkit.df7d654653f8dca06c92.png",
-    "static/media/amitResume.pdf": "/myPortfolio/static/media/amitResume.f623aebf6d6f7e06e225.pdf",
+    "static/media/AmitResume.pdf": "/myPortfolio/static/media/AmitResume.fe93aea0c4facc6b2464.pdf",
     "static/media/portfolio.png": "/myPortfolio/static/media/portfolio.f94a381b7bb85bd55ca8.png",
     "static/media/react.png": "/myPortfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/myPortfolio/static/media/node.952a9ea986dcfa5229ad.png",
@@ -18,11 +18,11 @@
     "static/media/firebase.png": "/myPortfolio/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/javascript.png": "/myPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/myPortfolio/index.html",
-    "main.1b0236b5.css.map": "/myPortfolio/static/css/main.1b0236b5.css.map",
-    "main.73133927.js.map": "/myPortfolio/static/js/main.73133927.js.map"
+    "main.f0efd07f.css.map": "/myPortfolio/static/css/main.f0efd07f.css.map",
+    "main.b6f347b6.js.map": "/myPortfolio/static/js/main.b6f347b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b0236b5.css",
-    "static/js/main.73133927.js"
+    "static/css/main.f0efd07f.css",
+    "static/js/main.b6f347b6.js"
   ]
 }
