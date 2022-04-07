@@ -1,6 +1,6 @@
 import React from "react";
-import WorkImg from "../assets/workImg.jpeg";
-import realEstate from "../assets/realestate.jpg";
+import reactui2 from "../assets/react-ui2.png";
+import cocktail from "../assets/cocktail.png";
 import portfolio from '../assets/portfolio.png'
 
 const Work = () => {
@@ -19,7 +19,7 @@ const Work = () => {
           {/* grid-Item */}
           <div
             style={{ backgroundImage: `url(${portfolio})`  }}
-            className="shadow-lg shadow-[#040c16] group container reounded-md flex justify-center items-center mx-auto content-div"
+            className="shadow-2xl shadow-[#040c16] group container reounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effect */}
             <div className="opacity-0 group-hover:opacity-100">
@@ -32,7 +32,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/AmitKumardev2021/myPortfolio" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -42,7 +42,7 @@ const Work = () => {
           </div>
           {/* grid-item-2 */}
           <div
-            style={{ backgroundImage: `url(${realEstate})` }}
+            style={{ backgroundImage: `url(${cocktail})` }}
             className="shadow-lg shadow-[#040c16] group container reounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effect */}
@@ -56,7 +56,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/AmitKumardev2021/react--cocktail-" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -66,7 +66,7 @@ const Work = () => {
           </div>
           {/* grid-item-3 */}
           <div
-            style={{ backgroundImage: `url(${realEstate})` }}
+            style={{ backgroundImage: `url(${reactui2})` }}
             className="shadow-lg shadow-[#040c16] group container reounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effect */}
@@ -80,7 +80,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/AmitKumardev2021/react-ui-2" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
